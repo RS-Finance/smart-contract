@@ -1,9 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-05-05
-*/
-
-// File: @openzeppelin/contracts/utils/Context.sol
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity >=0.6.0 <0.8.0;
@@ -831,7 +825,7 @@ contract SmartChefInitializable is Ownable, ReentrancyGuard {
     // The pool limit (0 if none)
     uint256 public poolLimitPerUser;
 
-    // CAKE tokens created per block.
+    // KSF tokens created per block.
     uint256 public rewardPerBlock;
 
     // The precision factor
