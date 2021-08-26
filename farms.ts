@@ -134,7 +134,7 @@ const farms: FarmConfig[] = [
       322: '0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16',
     },
     token: tokens.rs,
-    quoteToken: tokens.rs,
+    quoteToken: tokens.ksf,
   },
   
 ]
