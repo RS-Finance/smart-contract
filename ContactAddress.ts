@@ -113,4 +113,7 @@ const tokens = {
   },
 }
 
+// 0xEF84000588ecb1EDBA7B4c22F55D9711e3caD09b lottery
+// 0x698277F2c147536F31FA09C71eBbaE0264203885 lotteryNft
+
 export default tokens
